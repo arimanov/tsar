@@ -1,0 +1,6 @@
+server/node_modules/
+ui/node_modules
+.DS_Store
+ui/dist
+*.local
+.idea
